@@ -6,7 +6,7 @@ import android.widget.ImageView;
 import com.bumptech.glide.Glide;
 import com.bumptech.glide.load.DecodeFormat;
 import com.bumptech.glide.request.RequestOptions;
-import com.mt.library.imagepicker.utils.ImageLoader;
+import com.mt.filepicker.utils.ImageLoader;
 
 /**
  * 实现自定义图片加载
@@ -45,5 +45,5 @@ public class GlideLoader implements ImageLoader {
         //清理缓存
         Glide.get(context).clearMemory();
     }
-    
+
 }

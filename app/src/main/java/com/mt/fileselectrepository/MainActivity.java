@@ -6,8 +6,8 @@ import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.TextView;
 
-import com.mt.library.imagepicker.ImagePicker;
-import com.mt.library.imagepicker.data.MediaFile;
+import com.mt.filepicker.ImagePicker;
+import com.mt.filepicker.data.MediaFile;
 
 import java.util.ArrayList;
 

@@ -53,7 +53,7 @@
         android:layout_above="@id/rl_main_bottom"
         android:layout_below="@id/layout_actionBar">
 
-        <com.mt.library.imagepicker.view.HackyViewPager
+        <com.mt.filepicker.view.HackyViewPager
             android:id="@+id/vp_main_preImage"
             android:layout_width="match_parent"
             android:layout_height="wrap_content" />

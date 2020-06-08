@@ -31,5 +31,5 @@ dependencies {
     implementation 'com.android.support:appcompat-v7:26.1.0'
     implementation 'com.android.support:support-v4:26.1.0'
     implementation 'com.android.support:recyclerview-v7:26.1.0'
-    api 'com.github.ManTouBaby:MtCameraCapture:1.0.03'
+    api 'com.github.ManTouBaby:MtCameraCapture:1.0.04'
 }
